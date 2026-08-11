@@ -73,4 +73,5 @@ Temporary puzzle-data hosting repository
 ## Sources
 
 * https://github.com/first20hours/google-10000-english
+- Other sources may also be included in this repository and are not necessarily listed here.
 
