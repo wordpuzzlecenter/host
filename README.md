@@ -68,3 +68,9 @@ As our own datasets become available, temporary third-party data will be progres
 
 **Word Puzzle Center**
 Temporary puzzle-data hosting repository
+
+
+## Sources
+
+* https://github.com/first20hours/google-10000-english
+
