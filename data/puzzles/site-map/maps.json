@@ -1,4 +1,5 @@
 {
+  "updated": "2026-08-14",
   "games": [
     {
       "id": "word-connect",
@@ -7,7 +8,7 @@
       "category": "word-games",
       "categoryLabel": "Word Games",
       "folder": "./word-connect/",
-      "icon": "./word-connect/icon.png"
+      "icon": "https://raw.githubusercontent.com/wordpuzzlecenter/host/refs/heads/main/data/puzzles/site-map/icons/word-connect.png"
     },
     {
       "id": "crossword",
@@ -16,7 +17,7 @@
       "category": "crossword",
       "categoryLabel": "Crossword",
       "folder": "./crossword/",
-      "icon": "./crossword/icon.png"
+      "icon": "https://raw.githubusercontent.com/wordpuzzlecenter/host/refs/heads/main/data/puzzles/site-map/icons/crossword.png"
     },
     {
       "id": "word-search",
@@ -25,7 +26,7 @@
       "category": "word-search",
       "categoryLabel": "Word Search",
       "folder": "./word-search/",
-      "icon": "./word-search/icon.png"
+      "icon": "https://raw.githubusercontent.com/wordpuzzlecenter/host/refs/heads/main/data/puzzles/site-map/icons/word-search.png"
     },
     {
       "id": "word-scramble",
@@ -34,7 +35,7 @@
       "category": "anagrams",
       "categoryLabel": "Anagrams",
       "folder": "./word-scramble/",
-      "icon": "./word-scramble/icon.png"
+      "icon": "https://raw.githubusercontent.com/wordpuzzlecenter/host/refs/heads/main/data/puzzles/site-map/icons/word-scramble.png"
     },
     {
       "id": "word-match",
@@ -43,7 +44,7 @@
       "category": "vocabulary",
       "categoryLabel": "Vocabulary",
       "folder": "./word-match/",
-      "icon": "./word-match/icon.png"
+      "icon": "https://raw.githubusercontent.com/wordpuzzlecenter/host/refs/heads/main/data/puzzles/site-map/icons/word-match.png"
     }
   ]
 }
