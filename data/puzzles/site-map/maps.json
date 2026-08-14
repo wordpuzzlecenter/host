@@ -8,7 +8,9 @@
       "category": "word-games",
       "categoryLabel": "Word Games",
       "folder": "./word-connect/",
-      "icon": "https://raw.githubusercontent.com/wordpuzzlecenter/host/refs/heads/main/data/puzzles/site-map/icons/word-connect.png"
+      "icon": "https://raw.githubusercontent.com/wordpuzzlecenter/host/refs/heads/main/data/puzzles/site-map/icons/word-connect.png",
+      "defaultIcon": ["ph-fill", "ph-git-merge"],
+      "colorClass": "color-1"
     },
     {
       "id": "crossword",
@@ -17,7 +19,9 @@
       "category": "crossword",
       "categoryLabel": "Crossword",
       "folder": "./crossword/",
-      "icon": "https://raw.githubusercontent.com/wordpuzzlecenter/host/refs/heads/main/data/puzzles/site-map/icons/crossword.png"
+      "icon": "https://raw.githubusercontent.com/wordpuzzlecenter/host/refs/heads/main/data/puzzles/site-map/icons/crossword.png",
+      "defaultIcon": ["ph-fill", "ph-hash"],
+      "colorClass": "color-2"
     },
     {
       "id": "word-search",
@@ -26,7 +30,9 @@
       "category": "word-search",
       "categoryLabel": "Word Search",
       "folder": "./word-search/",
-      "icon": "https://raw.githubusercontent.com/wordpuzzlecenter/host/refs/heads/main/data/puzzles/site-map/icons/word-search.png"
+      "icon": "https://raw.githubusercontent.com/wordpuzzlecenter/host/refs/heads/main/data/puzzles/site-map/icons/word-search.png",
+      "defaultIcon": ["ph-fill", "ph-grid-four"],
+      "colorClass": "color-3"
     },
     {
       "id": "word-scramble",
@@ -35,7 +41,9 @@
       "category": "anagrams",
       "categoryLabel": "Anagrams",
       "folder": "./word-scramble/",
-      "icon": "https://raw.githubusercontent.com/wordpuzzlecenter/host/refs/heads/main/data/puzzles/site-map/icons/word-scramble.png"
+      "icon": "https://raw.githubusercontent.com/wordpuzzlecenter/host/refs/heads/main/data/puzzles/site-map/icons/word-scramble.png",
+      "defaultIcon": ["ph-fill", "ph-shuffle"],
+      "colorClass": "color-5"
     },
     {
       "id": "word-match",
@@ -44,7 +52,9 @@
       "category": "vocabulary",
       "categoryLabel": "Vocabulary",
       "folder": "./word-match/",
-      "icon": "https://raw.githubusercontent.com/wordpuzzlecenter/host/refs/heads/main/data/puzzles/site-map/icons/word-match.png"
+      "icon": "https://raw.githubusercontent.com/wordpuzzlecenter/host/refs/heads/main/data/puzzles/site-map/icons/word-match.png",
+      "defaultIcon": ["ph-fill", "ph-plugs-connected"],
+      "colorClass": "color-6"
     }
   ]
 }
