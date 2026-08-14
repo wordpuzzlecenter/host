@@ -1,1 +1,49 @@
-
+{
+  "games": [
+    {
+      "id": "word-connect",
+      "title": "Word Connect",
+      "description": "Connect letters and discover hidden words.",
+      "category": "word-games",
+      "categoryLabel": "Word Games",
+      "folder": "./word-connect/",
+      "icon": "./word-connect/icon.png"
+    },
+    {
+      "id": "crossword",
+      "title": "Crossword",
+      "description": "Solve crossword puzzles and test your vocabulary.",
+      "category": "crossword",
+      "categoryLabel": "Crossword",
+      "folder": "./crossword/",
+      "icon": "./crossword/icon.png"
+    },
+    {
+      "id": "word-search",
+      "title": "Word Search",
+      "description": "Find hidden words in the puzzle grid.",
+      "category": "word-search",
+      "categoryLabel": "Word Search",
+      "folder": "./word-search/",
+      "icon": "./word-search/icon.png"
+    },
+    {
+      "id": "word-scramble",
+      "title": "Word Scramble",
+      "description": "Unscramble the letters before time runs out.",
+      "category": "anagrams",
+      "categoryLabel": "Anagrams",
+      "folder": "./word-scramble/",
+      "icon": "./word-scramble/icon.png"
+    },
+    {
+      "id": "word-match",
+      "title": "Word Match",
+      "description": "Match words and improve your vocabulary.",
+      "category": "vocabulary",
+      "categoryLabel": "Vocabulary",
+      "folder": "./word-match/",
+      "icon": "./word-match/icon.png"
+    }
+  ]
+}
